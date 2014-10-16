@@ -940,7 +940,9 @@
         /**
          * exposes _handleKey publicly so it can be overwritten by extensions
          */
-        handleKey: _handleKey
+        handleKey: _handleKey,
+        handleKeyEvent: _handleKeyEvent,
+        addEvent: _addEvent
     };
 
     // expose mousetrap to the global object
