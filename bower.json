@@ -1,0 +1,14 @@
+{
+  "name": "mousetrap",
+  "main": "mousetrap.js",
+  "version": "1.4.7",
+  "homepage": "https://github.com/Ivshti/mousetrap",
+  "authors": [
+    "Craig Campbell <>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true
+}
